@@ -2645,7 +2645,7 @@ button.small,
 	background-size: 25em, 25em, auto, cover;
 	color: #fff;
 	cursor: default;
-	padding: 6em 0;
+	padding: 3em 0;
 	text-align: center;
 }
 
@@ -2699,7 +2699,7 @@ button.small,
 }
 
 #banner .inner footer {
-	margin: 2em 0 0 0;
+	margin: 1em 0 0 0;
 }
 
 /* Main */
@@ -2730,7 +2730,7 @@ button.small,
 }
 
 body.index #main {
-	padding-top: 5em;
+	padding-top: 0em;
 }
 
 /* CTA */
