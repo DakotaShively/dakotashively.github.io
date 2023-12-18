@@ -1,4 +1,4 @@
-A custom Portfolio website to visually suplement my resume and development history. 
+A custom Portfolio website to visually supplement my resume and development history. 
 Link: https://dakotashively.github.io/
 
 
